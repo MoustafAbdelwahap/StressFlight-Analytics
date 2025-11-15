@@ -1,0 +1,5 @@
+{
+  "name": "StressFlight Analytics: Flight Stress Correlator",
+  "description": "Correlate physiological stress data from a smartwatch with flight data to visualize and analyze stress patterns during air travel, offering personalized insights to improve travel wellbeing.",
+  "requestFramePermissions": []
+}
